@@ -1,0 +1,31 @@
+_repo: Umpisolmu-b-eli-Asarias-Pollasen-avioliitto_73916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wuori, Martti
+    alias: Wuori, M.
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+description: ''
+gutenberg_issued: '2024-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73916'
+language: fi
+pgterms:marc905: 20240617073806wuori
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Umpisolmu : $b eli Asarias Pölläsen avioliitto'
+url: http://www.gutenberg.org/ebooks/73916
